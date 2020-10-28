@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi! I'm Kai!
 
-<!--
-**Velocity23/Velocity23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kai Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=Velocity23&show_icons=true)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velocity23&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+* PHP
+* NodeJS
+* HTML
+* CSS
+* Bootstrap 4
+* C# (WIP)
+* MySQL
+* Linux (Ubuntu/Debian)
+
+**About Me**
+* Aviation Enthusiast
+* Enjoy Flight Simulation
+* Susceptible to tangents... but aren't we all
