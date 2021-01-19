@@ -1,10 +1,10 @@
 **Skills**
 * PHP
 * NodeJS
-* HTML
-* CSS
-* Bootstrap 4
-* C# (WIP)
+* HTML5, CSS3
+* JavaScript (incl. React, Next.js)
+* TypeScript
+* C# and .NET Core
 * MySQL
 * Linux (Ubuntu/Debian)
 
