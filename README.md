@@ -1,12 +1,23 @@
+Hi there! 👋
+
+Welcome to my profile, my tiny section of the octoverse. Here's a bit about me.
+
 **Skills**
-* PHP
+* Next.js
+* Docker
 * NodeJS
-* HTML5, CSS3
-* JavaScript (incl. React, Next.js)
-* TypeScript
-* C# and .NET Core
+* React
+* ASP.NET Core
+* Linux
 * MySQL
-* Linux (Ubuntu/Debian)
+* Cloud (DigitalOcean)
+
+**Languages**
+* JavaScript
+* Typescript
+* C#
+* PHP
+* HTML/CSS
 
 **About Me**
 * Aviation Enthusiast
